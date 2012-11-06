@@ -1,10 +1,11 @@
 Overview-Docs
 =============
 
-The purpose of this github experiment is to see if we can collaborate and write / source an entire KS3 SOW, resources and heck, even an text book.
-
-I'd like to propose the tag line:
-
+KS3 Science github
 Building a better KS3
 
-Glen
+The purpose of this github experiment is to see if we can collaborate over the writing and resourcing of an entire Science KS3 SOW and heck, possibly create a text book to accompany to course.
+
+Upfront, this is a collaborative project, with all resources submitted as OpenSource, and shared under the CC license (need details here)
+
+me:  Glen Gilchrist, gg@newporthigh.co.uk
